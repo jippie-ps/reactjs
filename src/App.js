@@ -11,8 +11,9 @@ class App extends Component {
           <h1 className="App-title">Welcome to React on Openshift</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload - edited by Wendy Chong.
+          To get started, edit <code>src/App.js</code> and save to reload - edited.
       This is prepared for Pipeline Demos
+      ITGroup Demos
         </p>
       </div>
     );
