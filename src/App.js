@@ -14,6 +14,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload - edited.
       This is prepared for Pipeline Demos
       ITGroup Demos
+      Ver. 1.0.001
         </p>
       </div>
     );
