@@ -12,7 +12,7 @@ class App extends Component {
         </header>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload - edited.
-      This is prepared for Pipeline Demos
+      This is prepared for Pipeline Demos.
       ITGroup Demos
       Version 1.0.001
         </p>
